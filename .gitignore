@@ -1,0 +1,13 @@
+# macOS システムファイル
+.DS_Store
+
+# VS Code の設定
+.vscode/
+
+# コンパイル済みの実行ファイル
+*.out
+*.exe
+
+# テスト入力・出力用の一時ファイル
+input.txt
+output.txt
